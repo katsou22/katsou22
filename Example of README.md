@@ -1,3 +1,5 @@
+# github_example
+An example of a repository
 - 👋 Hi, I’m @katsou22
 - 👀 I’m interested in data analysis
 - 🌱 I’m currently learning R
